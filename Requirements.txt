@@ -1,0 +1,6 @@
+numpy
+matplotlib
+networkx
+requests
+stellar-sdk
+ecdsa
